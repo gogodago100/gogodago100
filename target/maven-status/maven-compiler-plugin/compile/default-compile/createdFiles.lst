@@ -1,0 +1,4 @@
+example\Handler.class
+example\HandlerPdf.class
+example\HandlerPdfDB.class
+aws\lambda_s3_img\App.class
